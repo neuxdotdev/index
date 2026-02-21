@@ -21,10 +21,10 @@ definition-lists = true
 admonitions = true
 mathjax-support = true
 no-section-label = false
-git-repository-url = "https://github.com/neuxdotdev/neuxdotdev.github.io"
+git-repository-url = "https://github.com/neuxdotdev/index.git"
 git-repository-icon = "fab-github"
-edit-url-template = "https://github.com/neuxdotdev/neuxdotdev.github.io/edit/main/{path}"
-site-url = "https://neuxdotdev.github.io"
+edit-url-template = "https://github.com/neuxdotdev/index/edit/main/{path}"
+site-url = "https://neuxdotdev.github.io/index/"
 cname = "docs.neuxdotdev.github.io"
 sidebar-header-nav = true
 
